@@ -11,8 +11,8 @@ ___
 ___
 
 ## Projects
-**[CubeTimer](https://github.com/gabnash05/CCC151-SSIS.git)** - A Rubik's Cube Timer App.  
-**[Lexis](https://github.com/gabnash05/CubeTimer.git)** - A Student Information System.  
+**[Lexis](https://github.com/gabnash05/CCC151-SSIS.git)** - A Rubik's Cube Timer App.  
+**[CubeTimer](https://github.com/gabnash05/CubeTimer.git)** - A Student Information System.  
 **[URLite](https://github.com/gabnash05/URLite.git)** - A URL Shortner web application.  
 ___
 
