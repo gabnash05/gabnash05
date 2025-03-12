@@ -6,7 +6,7 @@ ___
 ## About Me
 🎓 2nd year BS Computer Science student in **Mindanao State University - Iligan Institute of Technology**  
 🚀 Passionate about **Web Development, Software Engineering, and Design (UI/UX, Graphics, Publications).**  
-🎯 Currently exploring **Software Design and Architecture**. 
+🎯 Currently exploring **AWS Services**. 
 
 ___
 
