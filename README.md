@@ -12,7 +12,9 @@ ___
 
 ## Projects 
 **[CubeTimer](https://github.com/gabnash05/CubeTimer.git)** - A Rubik's Cube Timer App. 
+
 **[UtiliTrack](https://github.com/KnightmareLeon/residential-rentals-utilities-tracker.git)** - A Residential Rentals Utilities Tracker.
+
 **[URLite](https://github.com/gabnash05/URLite.git)** - A URL Shortener Web Application.  
 ___
 
